@@ -1,0 +1,13 @@
+.env
+
+/input
+
+/venv
+
+aadhaar_class_v2.py
+
+/static
+
+aadhaar_classificarion_trial.py
+
+aadhaar_classification_main.py
